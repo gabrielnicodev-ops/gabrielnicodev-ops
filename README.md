@@ -18,3 +18,8 @@ Desarrollador **Full Stack** enfocado en crear soluciones eficientes, automatiza
 ### 📫 Cómo contactarme:
 - 💼 [LinkedIn](TU_LINK_AQUI)
 - 🌐 [CuyoWeb](https://cuyoweb.com) (O tu sitio personal)
+
+
+### 📊 Mis estadísticas
+![Estadísticas de Gabriel](https://github-readme-stats.vercel.app/api?username=gabrielnicodev-ops&show_icons=true&theme=tokyonight)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnicodev-ops&layout=compact&theme=tokyonight)

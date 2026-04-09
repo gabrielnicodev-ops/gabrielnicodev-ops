@@ -16,8 +16,8 @@ Desarrollador **Full Stack** enfocado en crear soluciones eficientes, automatiza
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat&logo=node.js&logoColor=white)
 
 ### 📫 Cómo contactarme:
-- 💼 [LinkedIn](TU_LINK_AQUI)
-- 🌐 [CuyoWeb](https://cuyoweb.com) (O tu sitio personal)
+- 💼 [LinkedIn](www.linkedin.com/in/gabriel-nicolas-alias-156994131)
+- 🌐 [CuyoWeb](https://cuyoweb.com).
 
 
 ### 📊 Mis estadísticas
